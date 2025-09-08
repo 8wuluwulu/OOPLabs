@@ -77,7 +77,7 @@ public class Triangle : Figure
 
     public override string ToString()
     {
-        return base.ToString();
+        return $"{Name} (A={A}, B={B}, C={C}): Периметр = {Perimeter}, Площадь = {Area}";
     }
 
     public override string Name
@@ -110,7 +110,7 @@ public class Circle : Figure
 
     public override string ToString()
     {
-        return base.ToString();
+        return $"{Name} (R={Radius}): Периметр = {Perimeter}, Площадь = {Area}";
     }
 
     public override string Name
@@ -159,7 +159,7 @@ public class Rectangle : Figure
 
     public override string ToString()
     {
-        return base.ToString();
+        return $"{Name} (A={A}, B={B}): Периметр = {Perimeter}, Площадь = {Area}";
     }
 
     public override string Name

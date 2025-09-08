@@ -26,3 +26,4 @@ d:\!!!\Documents\GitHub\OOPLabs\obj\Debug\net9.0\refint\lab1.dll
 d:\!!!\Documents\GitHub\OOPLabs\obj\Debug\net9.0\lab1.pdb
 d:\!!!\Documents\GitHub\OOPLabs\obj\Debug\net9.0\lab1.genruntimeconfig.cache
 d:\!!!\Documents\GitHub\OOPLabs\obj\Debug\net9.0\ref\lab1.dll
+d:\!!!\Documents\GitHub\OOPLabs\obj\Debug\net9.0\lab1.sourcelink.json
